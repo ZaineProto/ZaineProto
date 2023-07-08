@@ -23,7 +23,7 @@ I use multiple.
 - 24gb ram
 - NVidia 3050 (8gb model)
   
-
+-----
 
 [Discord server](https://discord.gg/CSGZ7GRH2C) | [Webiste](https://snakegames.gay) | More to come!
 
