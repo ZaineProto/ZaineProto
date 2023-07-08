@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zaine!
 
-I am a developer,  wanting to learn and be helful for people!
+I am a developer,  wanting to learn more about coding and helping people!
 
 # What can I do?
 
