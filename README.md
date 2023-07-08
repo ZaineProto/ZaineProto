@@ -12,7 +12,7 @@ I am a developer,  wanting to learn and be helful for people!
 
 I use multiple. 
 
-#### Laptop (Only for coding)
+#### Laptop - Macbook (Only for coding)
 
 - 2.4 GHz Dual-Core Intel Core i5
 - 16 GB 1333 MHz DDR3
